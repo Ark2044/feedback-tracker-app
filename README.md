@@ -102,7 +102,7 @@ feedback-tracker-app/
    cd frontend
    npm run dev
    ```
-   The frontend will run on `http://localhost:5173`
+   The frontend will run on `http://localhost:3000`
 
 #### Production Mode
 
